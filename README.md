@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello there! 👋🏽
 
-<!--
-**riyapandey/riyapandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Riya (🗣Ree-ya) Pandey.
 
-Here are some ideas to get you started:
+# 🎙 About Me
+🎓 Graduate with a Masters degree in Analytics (May 2024)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏞 Virginia resident, with a passion for solving problems using data
+
+📚 Bachelor Degree in Actuarial Science with a minor in Statistics. MS in Analytics from Kogod School of Business, American University
+
+💻 As for my future, I hope to one day work as Data Scientist and help companies make data-driven decisions to solve business problems
+
+🏋🏽‍♀️ In my free time, I like to play my guitar, learn new programming languages and keeping up with current events.
+
+📫 You can reach my on my linkedin @ https://www.linkedin.com/in/riyapandey731/
+
+# 💡 Core Capabilities
+• Tools: R, SQL, Advanced MS Excel, Tableau, Python
+
+• Skills: Data Analysis and Visualization, Predictive Modeling, Machine Learning, Advanced Research Techniques, Lifelong Learner, Relational Database
