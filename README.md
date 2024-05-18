@@ -3,11 +3,11 @@
 My name is Riya (🗣Ree-ya) Pandey.
 
 # 🎙 About Me
-🎓 Graduate with a Masters degree in Analytics (May 2024)
+🎓 Graduate with a Masters of Science Degree in Data Analytics (May 2024)
 
 🏞 Virginia resident, with a passion for solving problems using data
 
-📚 Bachelor Degree in Actuarial Science with a minor in Statistics. MS in Analytics from Kogod School of Business, American University
+📚 Bachelors of Science Degree in Actuarial Science with a minor in Statistics from University of Nebraska-Lincoln. MS in Analytics from Kogod School of Business, American University
 
 💻 As for my future, I hope to one day work as Data Scientist and help companies make data-driven decisions to solve business problems
 
